@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Dark Souls 3",
+        "price": 2500,
+        "img": "./assets/imgGames/dark-souls-3.jpg",
+        "key": 1
+    },
+    {
+        "name": "FIFA 22",
+        "price": 2000,
+        "img": "./assets/imgGames/FIFA.jpg",
+        "key": 2
+    },
+    {
+        "name": "Back 4 Blood",
+        "price": 2500,
+        "img": "./assets/imgGames/back-4-blood.jpg",
+        "key": 3
+    },
+    {
+        "name": "Anthem",
+        "price": 3000,
+        "img": "./assets/imgGames/anthem.jpg",
+        "key": 4
+    },
+    {
+        "name": "Destiny 2",
+        "price": 3200,
+        "img": "./assets/imgGames/destiny.jpg",
+        "key": 5
+    }
+]
